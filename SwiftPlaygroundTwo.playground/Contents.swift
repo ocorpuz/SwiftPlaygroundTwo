@@ -20,3 +20,23 @@ else
 {
     print("I'm not so sure about coding")
 }
+
+//Problem Set 1
+
+var numberOne = 1
+var numberTwo = 2
+if numberOne > numberTwo
+{
+    print("it is true")
+}
+else
+{
+    print("it is false")
+}
+var String1 = "Don't bother me"
+var String2 = " Please"
+if String2 == " Please"
+{
+    let String3 = String1 + String2
+    print(String3)
+}
